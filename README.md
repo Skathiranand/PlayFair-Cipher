@@ -155,7 +155,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![OUTPUT](image.png)
+![OUTPUT](image-1.png)
 
 
 ## RESULT:
